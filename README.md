@@ -1,4 +1,5 @@
 # Gallery
+#Mudassir Alam
 > An Android Gallery app built with Jetpack Compose.
 > 
 > The goal of this project is to create and bring the Gallery app everyone wants, with the features everyone needs. FOSS
